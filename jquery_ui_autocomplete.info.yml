@@ -5,5 +5,4 @@ package: jQuery UI
 core: 8.x
 dependencies:
   - jquery_ui:jquery_ui
-  - jquery_ui_position:jquery_ui_position
   - jquery_ui_menu:jquery_ui_menu

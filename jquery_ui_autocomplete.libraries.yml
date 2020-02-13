@@ -12,5 +12,5 @@ autocomplete:
   dependencies:
     - jquery_ui/core
     - jquery_ui/widget
-    - jquery_ui_position/position
+    - jquery_ui/position
     - jquery_ui_menu/menu

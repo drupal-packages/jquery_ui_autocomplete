@@ -1,0 +1,13 @@
+{
+  "name": "drupal-packages/jquery_ui_autocomplete",
+  "type": "drupal-module",
+  "description": "Jquery UI: checkbox",
+  "keywords": ["Drupal"],
+  "license": "GPL-2.0+",
+  "homepage": "https://github.com/drupal-packages/jquery_ui_autocomplete",
+  "minimum-stability": "dev",
+  "support": {
+    "issues": "https://github.com/drupal-packages/jquery_ui_autocomplete/issues",
+    "source": "https://github.com/drupal-packages/jquery_ui_autocomplete"
+  }
+}

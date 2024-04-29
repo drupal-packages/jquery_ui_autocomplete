@@ -2,7 +2,7 @@ name: jQuery UI Autocomplete
 type: module
 description: 'Provides jQuery UI Autocomplete library.'
 package: jQuery UI
-core_version_requirement: ^8 || ^9
+core_version_requirement: ^10 || ^11
 dependencies:
   - jquery_ui:jquery_ui
   - jquery_ui_menu:jquery_ui_menu
